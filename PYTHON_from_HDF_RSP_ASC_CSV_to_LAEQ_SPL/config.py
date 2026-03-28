@@ -1,0 +1,2 @@
+FS_TARGET = 20000.0
+P_REF = 2e-5
